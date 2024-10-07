@@ -20,5 +20,5 @@ The project addresses these problems by performing the following:
 
 ## Files Included
 - **Supply_chain_ER_Diagram.png:** Visual representation of the database schema, outlining relationships between tables (customer, orders, orderitem, supplier, and product).
-- **SupplyChain_Questions.docx:** Contains SQL query-related questions focused on data extraction, business analysis, and advanced challenges like competitor analysis and customer order patterns.
-- **Supply_chain_SQL_Querry.docx:** Provides SQL queries answering the questions from the SupplyChain_Questions.docx, addressing key business problems and data insights.
+- **SupplyChain_Questions.pdf:** Contains SQL query-related questions focused on data extraction, business analysis, and advanced challenges like competitor analysis and customer order patterns.
+- **Supply_chain_SQL_Querry.pdf:** Provides SQL queries answering the questions from the SupplyChain_Questions.docx, addressing key business problems and data insights.
